@@ -94,10 +94,10 @@ If you want to change to another scenario to fit your needs, you can change the 
 The first three elements are used to set the authentication claims of the users (e.g. user id, user expiry). The fouth one is used to set the user claim you probably want to verify with. 
 
 #### operator
-Compare operations:
-"0" - Noop, skip execution. Ignores all `in` and `value` passed to query, out 1
-"1" - Equals
-"2" - Less-than
-"3" - Greater-than
-"4" - In
-"5" - Notin
+Compare operations:\
+    "0" - Noop, skip execution. Ignores all `in` and `value` passed to query, out 1\
+    "1" - Equals\
+    "2" - Less-than\
+    "3" - Greater-than\
+    "4" - In\
+    "5" - Notin

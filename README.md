@@ -1,4 +1,4 @@
-# zkMe-circuits
+# zkme-circuits
 
 Usage: Verify user claims in circom.
 ## zkMe
